@@ -1,5 +1,5 @@
 <p>
-  <img width="250" align='center' src="https://github.com/Prashantsaini25/PrashantSaini25/blob/main/Images/banner.jpg?raw=true">
+  <img width="831" align='center' src="https://github.com/Prashantsaini25/PrashantSaini25/blob/main/Images/banner.jpg?raw=true">
 </p>
 ##### build the project
 
